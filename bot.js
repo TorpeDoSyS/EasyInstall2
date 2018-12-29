@@ -301,6 +301,6 @@ By MR_Phantom
 
 
 client.on('ready',async () => {
-  client.channels.find(ch => ch.id === "498437297125982218" && ch.type === 'voice').join();
+  client.channels.find(ch => ch.id === "528205952449642498" && ch.type === 'voice').join();
 });
 client.login(process.env.BOT_TOKEN);
